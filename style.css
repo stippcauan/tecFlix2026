@@ -7,7 +7,19 @@ body{
 }
 
 header{
-    border: solid 2px rgb(90, 219, 39);
+    border-bottom: double 2px rgb(90, 219, 39);
+    padding: 30px;
+    font-size: 32x;
+    color: rgb(22, 62, 192);
+}
+
+section{
+    background-color: rgb(253, 251, 142);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    
 }
 
 h1{
