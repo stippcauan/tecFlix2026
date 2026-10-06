@@ -1,7 +1,13 @@
 body{
     background-color: black;
     color: rgb(214, 211, 17);
-    font-family: "parisienne", cursive;
+    font-family: "parisienne", sans-serif;
+    margin: 0px;
+
+}
+
+header{
+    border: solid 2px rgb(90, 219, 39);
 }
 
 h1{
